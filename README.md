@@ -1,6 +1,6 @@
 # Deploy de modelos com Flask
 
-Este é o repositório do código do vídeo **Séries temporais com Python** do Youtube do canal Let's Data.
+Este é o repositório do código do vídeo **Deploy de modelos com Flask** do Youtube do canal Let's Data.
 
 Link para o vídeo: https://youtu.be/_KNzvVsrB8k
 
