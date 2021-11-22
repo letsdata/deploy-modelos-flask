@@ -4,7 +4,7 @@ Este é o repositório do código do vídeo **Séries temporais com Python** do 
 
 Link para o vídeo: https://youtu.be/_KNzvVsrB8k
 
-Ao final deste vídeo você será capaz de:
-☑️ A importância de tirar os modelos do papel
-☑️ Criar um modelo no scikit learn
+Ao final deste vídeo você será capaz de: 
+☑️ A importância de tirar os modelos do papel 
+☑️ Criar um modelo no scikit learn 
 ☑️ Integrar modelo preditivo numa aplicação Flask
